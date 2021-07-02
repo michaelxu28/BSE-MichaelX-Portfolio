@@ -18,13 +18,7 @@ my second milestone was finishing a working cat laser turrent. One servo is conn
 picture of the circuit: (pretend the led is a laser)
 ![Citcuit Picture](https://cdn.discordapp.com/attachments/768950025471918110/858089600447021066/Screen_Shot_2021-06-25_at_1.59.19_PM.png)
 
-
-
-
-
-
-
-
+ &nbsp                  
 
 [![Second](https://cdn.discordapp.com/attachments/501260125731028994/860602772185808896/Screen_Shot_2021-07-02_at_12.27.28_PM.png)](https://www.youtube.com/watch?v=328fONESxTU "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone

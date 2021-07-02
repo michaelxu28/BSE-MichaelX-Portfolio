@@ -14,8 +14,11 @@ my final milestone was soldering the wires to a perfboard. The arduino only has 
 
 # Second Milestone
 my second milestone was finishing a working cat laser turrent. One servo is connected to the arm of the second, and the laser is mounted on the arm of the top servo. When the button is pressed, two servos move in random directions and the laser turns on. The bottom servo allows the laser to move left and right while the top servo moves it up and down.  
+  
 picture of the circuit: (pretend the led is a laser)
 ![Citcuit Picture](https://cdn.discordapp.com/attachments/768950025471918110/858089600447021066/Screen_Shot_2021-06-25_at_1.59.19_PM.png)
+
+
 [![Second](https://cdn.discordapp.com/attachments/501260125731028994/860602772185808896/Screen_Shot_2021-07-02_at_12.27.28_PM.png)](https://www.youtube.com/watch?v=328fONESxTU "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
   

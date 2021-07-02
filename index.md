@@ -8,7 +8,7 @@
 ![Headstone Image](https://content.instructables.com/ORIG/FH5/DXMC/GZACINAK/FH5DXMCGZACINAK.jpg?auto=webp&frame=1&width=933&height=1024&fit=bounds&md=727fb8eb8c2ae062b4b2727b4ad01b4e)
   
 # Final Milestone
-
+my final milestone was soldering the wires to a perfboard. The arduino only has two ground ports, and my project needed four, so I connected three of the wires to one rail of the perfboard. I did the same with the 5v port and used the second ground port for the laser. Finally, I switched the button with a analog joystick. The joystick is used to control the servos and it even has a built-in button, which allows me to turn on and off the laser. 
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 

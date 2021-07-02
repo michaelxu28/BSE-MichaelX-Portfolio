@@ -8,15 +8,15 @@
 ![Headstone Image](https://content.instructables.com/ORIG/FH5/DXMC/GZACINAK/FH5DXMCGZACINAK.jpg?auto=webp&frame=1&width=933&height=1024&fit=bounds&md=727fb8eb8c2ae062b4b2727b4ad01b4e)
   
 # Final Milestone
-jeiwogiugbwcc
+
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-my second milestone huowheoduwhdnounwc   
-pic of the circuit: (pretend the led is a laser)
+my second milestone was finishing a working cat laser turrent. One servo is connected to the arm of the second, and the laser is mounted on the arm of the top servo. When the button is pressed, two servos move in random directions and the laser turns on. The bottom servo allows the laser to move left and right while the top servo moves it up and down. 
+picture of the circuit: (pretend the led is a laser)
 ![Citcuit Picture](https://cdn.discordapp.com/attachments/768950025471918110/858089600447021066/Screen_Shot_2021-06-25_at_1.59.19_PM.png)
-[![Second](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Second](https://cdn.discordapp.com/attachments/501260125731028994/860602772185808896/Screen_Shot_2021-07-02_at_12.27.28_PM.png)](https://www.youtube.com/watch?v=328fONESxTU "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
   
 

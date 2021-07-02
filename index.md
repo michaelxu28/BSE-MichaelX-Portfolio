@@ -1,9 +1,9 @@
 ﻿# Cat Laser
- laser that moves around for cat
+ A auto cat laser turrent that moves around the room for a cat. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Michael Xu | Lynbrook HS| idk| Incoming Junior
+| Michael Xu | Lynbrook HS| Electrical Enginnering| Incoming Junior
 
 ![Headstone Image](https://content.instructables.com/ORIG/FH5/DXMC/GZACINAK/FH5DXMCGZACINAK.jpg?auto=webp&frame=1&width=933&height=1024&fit=bounds&md=727fb8eb8c2ae062b4b2727b4ad01b4e)
   

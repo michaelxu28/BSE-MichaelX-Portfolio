@@ -2,6 +2,7 @@
  A auto cat laser turrent that moves around the room for a cat, which is controlled by a analog joystick.    
 This was my first project to introduce myself to electrical engineering, and after these three weeks I learned how to solder and use the arduino. This project was enjoyable for me (and my cat) and made me want to further explore engineering.   
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
+|:--:|:--:|:--:|:--:| 
 | Michael Xu | Lynbrook HS| Electrical Enginnering| Incoming Junior
 
 ![Headstone Image](https://cdn.discordapp.com/attachments/762764107191156779/860617834366238780/image0.jpg)

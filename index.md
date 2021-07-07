@@ -10,7 +10,7 @@
 # Final Milestone
 my final milestone was soldering the wires to a perfboard. The arduino only has two ground ports, and my project needed four, so I connected three of the wires to one rail of the perfboard. I did the same with the 5v port and used the second ground port for the laser. Finally, I switched the button with a analog joystick. The joystick is used to control the servos and it even has a built-in button, which allows me to turn on and off the laser. 
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://youtu.be/AGEDjoDWGVE "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
 my second milestone was finishing a working cat laser turrent. One servo is connected to the arm of the second, and the laser is mounted on the arm of the top servo. When the button is pressed, two servos move in random directions and the laser turns on. The bottom servo allows the laser to move left and right while the top servo moves it up and down.  

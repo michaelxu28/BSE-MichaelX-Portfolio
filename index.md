@@ -4,7 +4,7 @@ This was my first project to introduce myself to electrical engineering, and aft
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Michael Xu | Lynbrook HS | Electrical Engineering | Incoming Junior
 
 ![Headstone Image](https://cdn.discordapp.com/attachments/762764107191156779/860617834366238780/image0.jpg)
   

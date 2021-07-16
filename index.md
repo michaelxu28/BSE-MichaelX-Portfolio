@@ -22,7 +22,7 @@ my final milestone was soldering the wires to a perfboard. The arduino only has 
 my second milestone was finishing a working cat laser turrent. One servo is connected to the arm of the second, and the laser is mounted on the arm of the top servo. When the button is pressed, two servos move in random directions and the laser turns on. The bottom servo allows the laser to move left and right while the top servo moves it up and down.  
   
 picture of the circuit: (pretend the led is a laser)
-![Citcuit Picture](https://cdn.discordapp.com/attachments/768950025471918110/858089600447021066/Screen_Shot_2021-06-25_at_1.59.19_PM.png)
+![Citcuit Picture](https://github.com/michaelxu28/BSE-MichaelX-Portfolio/blob/main/folder/3rd.png)
   
     
       

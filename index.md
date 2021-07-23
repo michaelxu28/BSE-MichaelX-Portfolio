@@ -7,7 +7,7 @@ This was my first project to introduce myself to electrical engineering, and aft
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Michael Xu | Lynbrook HS | Electrical Engineering | Incoming Junior
+| Michael  | Lynbrook HS | Electrical Engineering | Incoming Junior
 
 ![ewguegwiuc](https://user-images.githubusercontent.com/71350303/126841097-7770ebc7-c03f-4be2-a77c-b848eb5ea6c2.jpeg)
 
@@ -16,7 +16,7 @@ This was my first project to introduce myself to electrical engineering, and aft
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AGEDjoDWGVE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Code for the Project:  
-https://github.com/michaelxu28/Cat-Laser   
+[Cat Laser Repository](https://github.com/michaelxu28/Cat-Laser)  
 
 # Final Milestone
 my final milestone was soldering the wires to a perfboard. The arduino only has two ground ports, and my project needed four, so I connected three of the wires to one rail of the perfboard. I did the same with the 5v port and used the second ground port for the laser. Finally, I switched the button with a analog joystick. The joystick is used to control the servos and it even has a built-in button, which allows me to turn on and off the laser. 
